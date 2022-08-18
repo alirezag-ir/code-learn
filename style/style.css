@@ -15,9 +15,9 @@ body, html {
 @font-face {
     font-family: yekan;
 
-    src: url('/fonts/Yekan.eot'),
-         url('/fonts/Yekan.woff') format('woff'),
-         url('/fonts/Yekan.ttf') format('truetype');
+    src: url('../fonts/Yekan.eot'),
+         url('../fonts/Yekan.woff') format('woff'),
+         url('../fonts/Yekan.ttf') format('truetype');
 
     font-weight: normal;
     font-style: normal;
